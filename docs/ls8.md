@@ -3,7 +3,7 @@
 Если какой то из прошлых статей вызвал у вас проблемы
 то скачайте заготовку.
 
-ссылка на заготовку: [https://codeload.github.com/Azreil-OFD/apish/zip/refs/tags/v1](https://azreil-ofd.github.io/apish/)
+ссылка на заготовку: [тык](https://codeload.github.com/Azreil-OFD/apish/zip/refs/tags/v1)
 
 После чего в папке с заготовокой введите `npm i`
 
